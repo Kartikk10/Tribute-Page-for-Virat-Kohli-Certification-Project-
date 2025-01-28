@@ -1,0 +1,63 @@
+
+main{
+    background-color: rgb(255, 237, 204);
+    margin: 40px 60px;
+}
+.text-center{
+    text-align: center;
+}
+h1{
+    padding-top: 60px;
+    font-size: 45px;
+    margin-bottom: -5px;
+}
+p.text-center{
+    font-size: 22px;
+}
+figure{
+    background-color: white;
+}
+img{
+    display: block;
+    max-width: 100%;
+    width: 900px;
+    margin: 0 auto;
+    height: auto;
+    padding: 30px 60px 15px 60px;
+    box-sizing: border-box;
+}
+figcaption{
+    text-align: center;
+    padding-bottom: 15px;
+    font-size: 20px;
+}
+h3{
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    font-size: 25px;
+}
+ul{
+    max-width: 550px;
+    margin: 0 auto;
+    box-sizing: border-box;
+    line-height: 1.7;
+    padding-right: 40px;
+}
+li{
+    font-size: 20px;
+    margin: 16px 0;
+}
+blockquote{
+    text-align: center;
+    font-size: 20px;
+    font-style: italic;
+    padding-top: 50px;
+    max-width: 550px;
+    display: block;
+    margin: 0 auto;
+}
+#wiki-link{
+    max-width: 800px;
+    margin: 0 auto;
+}
